@@ -1,0 +1,8 @@
+{
+  "LED_RED": 14,
+  "LED_GREEN": 13,
+  "LED_BLUE": 12,
+  "WIFI_EN": 8,
+  "WIFI_RX": 7,
+  "WIFI_TX": 6
+}
